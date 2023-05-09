@@ -14,10 +14,10 @@ function createTable() {
         // Set the columns definition with the fields and titles
         columns: [
             {title: "Name", field: "name", sorter: "string"},
+            {title: "Description", field: "description", sorter: "string", formatter:"textarea"},
             {title: "Category", field: "category", sorter: "string"},
             {title: "Price", field: "price", sorter: "number"},
             {title: "Rating", field: "rating", sorter: "number"},
-            {title: "Image", field: "image", formatter: "image"}
         ],
         // Set the row click callback function to open the detail page
         rowClick: function(e, row) {
