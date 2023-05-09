@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Link to Bootstrap CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Link to custom CSS file -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Link to Lightbox CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+    <title>{{name}}</title> <!-- Use the name field as the title -->
+</head>
+<body>
+    <div class="container">
+        <!-- Navbar with back button and title -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#" onclick="window.close()">Back</a> <!-- Close the window when clicked -->
+            <span class="navbar-text ml-auto">{{name}}</span> <!-- Use the name field as the navbar text -->
+        </nav>
+        <!-- Div for the image and details -->
+        <div class="row mt-4">
+            <!-- Div for the image -->
+            <div class="col-md-6">
+                <!-- Use the image field as the src and alt attributes -->
+                <img src="{{image}}" alt="{{name}}" class="img-fluid lightbox-image" data-lightbox="detail" data-title="{{name}}">
+            </div>
+            <!-- Div for the details -->
+            <div class="col-md-6">
+                <!-- Use a list group to display the details -->
+                <ul class="list-group list-group-flush">
+                    <!-- Use the category field as the list item text -->
+                    <li class="list-group-item">Category: {{category}}</li>
+                    <!-- Use the price field as the list item text -->
+                    <li class="list-group-item">Price: {{price}}</li>
+                    <!-- Use the rating field as the list item text -->
+                    <li class="list-group-item">Rating: {{rating}}</li>
+                    <!-- Use the description field as the list item text -->
+                    <li class="list-group-item">Description: {{description}}</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
