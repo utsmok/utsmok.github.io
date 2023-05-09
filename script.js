@@ -24,7 +24,7 @@ function createTable() {
             // Get the row data object
             var rowData = row.getData();
             // Create a new window object
-            var win = window.open("", "_blank");
+            var win = window.open("", "_self");
             // Get the template source from the template.hbs file
             $.get("template.hbs", function(source) {
                 // Compile the template using Handlebars
