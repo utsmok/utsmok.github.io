@@ -85,65 +85,37 @@ function createCards() {
         
 ```javascript
 
-// Append
-
-the text element to
-
-the body element
+// Append the text element to the body element
 
 body.appendChild(text);
 
-// Append
-
-the body element
-
-to
-
-the card element
+// Append the body element to the card element
 
 card.appendChild(body);
 
-// Get
-
-the cards div element by id
+// Get the cards div element by id
 
 var cards = document.getElementById("cards");
 
-// Append
-
-the card element
-
-to
-
-the cards element
+// Append the card element to the cards element
 
 cards.appendChild(card);
 
+```
 }
 
 }
 
-// Define
-
-a function
-
-to toggle between table mode and gallery mode
+// Define a function to toggle between table mode and gallery mode
 
 function toggleMode() {
 
-// Get
-
-the mode switch input element by id
-
+// Get the mode switch input element by id
 var modeSwitch = document.getElementById("modeSwitch");
 
-// Get
-
-the table mode div element by id
-
+// Get the table mode div element by id
 var tableMode = document.getElementById("tableMode");
 
-//
 
 // Get the gallery mode div element by id
 var galleryMode = document.getElementById("galleryMode");
