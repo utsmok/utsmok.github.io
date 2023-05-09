@@ -81,28 +81,16 @@ function createCards() {
         // Add the card-text class to the p element
         text.classList.add("card-text");
         // Set the text content to show some item details
-        text.textContent = `Category: ${item.category}\nPrice: ${item.price}\nRating: ${item.rating}`;
-        
-```javascript
-
-// Append the text element to the body element
-
-body.appendChild(text);
-
-// Append the body element to the card element
-
-card.appendChild(body);
-
-// Get the cards div element by id
-
-var cards = document.getElementById("cards");
-
-// Append the card element to the cards element
-
-cards.appendChild(card);
-
-```
-}
+        text.textContent = `Category: ${item.category}\nPrice: ${item.price}\nRating: ${item.rating}`;        
+        // Append the text element to the body element
+        body.appendChild(text);
+        // Append the body element to the card element
+        card.appendChild(body);
+        // Get the cards div element by id
+        var cards = document.getElementById("cards");
+        // Append the card element to the cards element
+        cards.appendChild(card);
+        }
 
 }
 
