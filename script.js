@@ -57,11 +57,11 @@ function createCards() {
         // Set the src attribute to the item image url
         img.setAttribute("src", item.image);
         // Set the alt attribute to the item name
-        img.setAttribute("alt", item.name);
+        img.setAttribute("alt", item.Title);
         // Set the data-lightbox attribute to enable lightbox feature
         img.setAttribute("data-lightbox", "gallery");
         // Set the data-title attribute to show the item name on lightbox
-        img.setAttribute("data-title", item.name);
+        img.setAttribute("data-title", item.Title);
         // Append the img element to the card element
         card.appendChild(img);
         // Create a new div element for the card body
@@ -73,15 +73,15 @@ function createCards() {
         // Add the card-title class to the h5 element
         title.classList.add("card-title");
         // Set the text content to the item name
-        title.textContent = item.name;
+        title.textContent = item.Title;
         // Append the title element to the body element
-        body.appendChild(title);
+        body.appendChild(Title);
         // Create a new p element for the card text
         var text = document.createElement("p");
         // Add the card-text class to the p element
         text.classList.add("card-text");
         // Set the text content to show some item details
-        text.textContent = `Category: ${item.category}\nPrice: ${item.price}\nRating: ${item.rating}`;        
+        text.textContent = `Category: ${item.Category}\nDepth: ${item.Depth}}`;        
         // Append the text element to the body element
         body.appendChild(text);
         // Append the body element to the card element
