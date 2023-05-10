@@ -16,7 +16,7 @@ function createTable() {
             {title: "Name", field: "Title", sorter: "string"},
             {title: "URL", field: "Adress", formatter:"link", formatterParams:{target:"_blank"}},
             {title: "Description", field: "Description", sorter: "string", formatter:"textarea"},
-            {title: "Category", field: "category", sorter: "string"},
+            {title: "Category", field: "Category", sorter: "string", formatterParams:{stars:3}},
             {title: "Depth", field: "Depth", formatter: "star", sorter:"numeric"},
         ],
         // Set the row click callback function to open the detail page
