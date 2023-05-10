@@ -75,7 +75,7 @@ function createCards() {
         // Set the text content to the item name
         title.textContent = item.Title;
         // Append the title element to the body element
-        body.appendChild(Title);
+        body.appendChild(title);
         // Create a new p element for the card text
         var text = document.createElement("p");
         // Add the card-text class to the p element
