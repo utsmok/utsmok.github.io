@@ -55,7 +55,7 @@ function createCards() {
         // Add the card-img-top class to the img element
         img.classList.add("card-img-top");
         // Set the src attribute to the item image url
-        img.setAttribute("src", item.image);
+        img.setAttribute("src", item.Image);
         // Set the alt attribute to the item name
         img.setAttribute("alt", item.Title);
         // Set the data-lightbox attribute to enable lightbox feature
@@ -81,7 +81,7 @@ function createCards() {
         // Add the card-text class to the p element
         text.classList.add("card-text");
         // Set the text content to show some item details
-        text.textContent = `Category: ${item.Category}\nDepth: ${item.Depth}}`;        
+        text.textContent = `Category: ${item.Category}`;        
         // Append the text element to the body element
         body.appendChild(text);
         // Append the body element to the card element
