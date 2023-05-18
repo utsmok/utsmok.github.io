@@ -13,9 +13,13 @@ Sounds familiar? Well, luckily there are a lot of tools that will make this proc
 <!-- more -->
 # inciteful.xyz
 ![inciteful logo](logo.png)
+
 > [inciteful.xyz](https://inciteful.xyz/) 
+> 
 > Recommends articles based on a large citation graph using simple but powerful queries
+> 
 > Free & open source
+> 
 > Uses data from [OpenAlex](https://openalex.org/)
 
 {% galleria() %}
