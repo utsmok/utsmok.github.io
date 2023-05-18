@@ -3,4 +3,15 @@
     <url>
         <loc>https://utsmok.github.io/</loc>
     </url>
+    <url>
+        <loc>https://utsmok.github.io/list/</loc>
+    </url>
+    <url>
+        <loc>https://utsmok.github.io/list/gallery/</loc>
+        <lastmod>2023-05-18</lastmod>
+    </url>
+    <url>
+        <loc>https://utsmok.github.io/list/table/</loc>
+        <lastmod>2023-05-18</lastmod>
+    </url>
 </urlset>
