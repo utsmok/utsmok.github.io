@@ -2,6 +2,9 @@
 title = "Table view"
 slug = "table"
 date = "2023-05-18"
+[taxonomies]
+categories=["Tool list"]
+tags=["list", "table", "links", "tools"]
 +++
 
 The list in the format of a classic table, with filter, sort,  search & grouping options. 

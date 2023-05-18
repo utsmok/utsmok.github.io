@@ -2,6 +2,9 @@
 title = "Gallery view"
 slug = "gallery"
 date = "2023-05-18"
+[taxonomies]
+categories=["Tool list"]
+tags=["list", "gallery", "links", "tools"]
 +++
 
 The list in the format of a modern card-based layout, with some search, filter, and sort options. 
