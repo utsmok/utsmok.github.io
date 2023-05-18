@@ -18,7 +18,7 @@ Sounds familiar? Well, luckily there are a lot of tools that will make this proc
 > Free & open source
 > Uses data from [OpenAlex](https://openalex.org/)
 
-{%/* galleria() */%}
+{% galleria() %}
 {
   "screenshots": [
     {
@@ -43,7 +43,7 @@ Sounds familiar? Well, luckily there are a lot of tools that will make this proc
     },
   ]
 }
-{%/* end */%}
+{% end %}
 
 [inciteful.xyz](https://inciteful.xyz/) is a wonderful tool that uses a list of papers that you provide to produce a lot of recommendations in clear, concise tables. It's completely free and open source, and also uses completely free and open databases to source all information. 
 inciteful has been around for a while. Initally using Microsoft Academic graph, moving on to Semantic Scholar's database afterwards, and recently (february 2023) improved things by switching to using OpenAlex as the main source of information.
