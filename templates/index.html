@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="section">
+  <div class="container">
+    <div class="has-text-centered">
+      <h1 class="title is-2">{{ section.title }}</h1>
+      <p class="subtitle is-4">{{ section.description }}</p>
+      {% if config.extra.author.avatar %}
+      <figure class="image is-flex is-justify-content-center is-align-items-center">
+        <img class="is-rounded" src="{{ config.extra.author.avatar }}" style="max-width: 150px" />
+      </figure>
+      {% endif %}
+      {{ macros:: social_links( social_config=config.extra.social) }}
+    </div>
+    <div class="content">
+     
+      <h1 class="title is-2">Most recent post</h1>
+
+      {% set section2 = get_section(path="posts/_index.md")  %}
+      {% set pages2 = section2.pages %}
+      {% set latestpage = pages2 | sort(attribute="date") | first %}
+
+      <article class="box">
+        <h2 class="title">
+          <a class="has-text-dark" href='{{ latestpage.permalink }}'>
+            {{ latestpage.title }}
+          </a>
+        </h2>
+        <p class="subtitle">{{ latestpage.description }}</p>
+        <div class="columns is-multiline is-gapless">
+          <div class="column is-8">
+            {{ macros::page_publish_metadata(page=latestpage) }}
+          </div>
+          <div class="column is-4 has-text-right-desktop">
+            {{ macros::page_content_metadata(page=latestpage) }}
+          </div>
+        </div>
+        <div class="content mt-2">
+          {{ latestpage.summary | safe }}
+          <a class="has-text-danger-dark has-text-weight-semibold" href='{{ latestpage.permalink }}'>
+            Read More
+            <span class="icon is-small">
+              <i class="fas fa-arrow-right fa-xs"></i>
+            </span>
+          </a>
+        </div>
+        <div class="columns">
+          <div class="column">
+            {% if latestpage.taxonomies.categories %}
+            {{ macros::render_categories(categories=latestpage.taxonomies.categories) }}
+            {% endif %}
+          </div>
+          <div class="column has-text-right-desktop">
+            {% if latestpage.taxonomies.tags %}
+            {{ macros::render_tags(tags=latestpage.taxonomies.tags) }}
+            {% endif %}
+          </div>
+        </div>
+    </article>
+
+    {{ section.content | safe }}
+
+
+    </div>
+  </div>
+</section>
+{% endblock %}
+

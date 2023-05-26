@@ -73,8 +73,8 @@ linkedin = "samuel-mok-993ab35"
 
 
 # To add google analytics
-#[extra.analytics]
-#google = "<your_gtag>"
+[extra.analytics]
+google = "G-YF6WFQNLVG"
 
 # To add disqus comments
 #[extra.commenting]
