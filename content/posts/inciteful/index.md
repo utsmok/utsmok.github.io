@@ -6,7 +6,7 @@ categories=["Search tools"]
 tags=["citations", "guides", "tools"]
 +++
 
-Ah, what a wonderful time, you're starting a new research project! You received  a couple of papers from your supervisor to get you started, and you're certain there's quite some more relevant articles out there that will get you on the right track. Your initial rush of energy fades away as you sigh deeply and fire up Scopus. After a lot of iterations you've finally constructed a search expression that gives you some  results, but it's still not the stuff you want. Oh well. You grab the useful results from the pile of garbage, and quickly move on before you completely burn out.
+Ah, what a wonderful time, you're starting a new research project! You received  a couple of papers from your supervisor to get you started, and you're certain there's quite some more relevant articles out there that will get you on the right track. You sit down and start working on a great boolean search query in Scopus. After a lot of iterations you've constructed a search expression that gives you some relevant results, but you have a feeling you're missing some crucial papers. Oh well. After a quick scan you grab the first 20 useful-looking papers from the long list of results, and quickly move on before you completely burn out.
 
 Sounds familiar? Well, luckily there are a lot of tools that will make this process faster, easier, more fun, *and* produce more relevant results to boot! Let's dive into my favorite example: [inciteful.xyz](https://inciteful.xyz/).
 
@@ -23,10 +23,10 @@ Sounds familiar? Well, luckily there are a lot of tools that will make this proc
 > Uses data from [OpenAlex](https://openalex.org/)
 
 
-[inciteful.xyz](https://inciteful.xyz/) is a wonderful tool that uses a list of papers that you provide to produce a lot of recommendations in clear, concise tables. It's completely free and open source, and also uses completely free and open databases to source all information. 
-inciteful has been around for a while. Initally using Microsoft Academic graph, moving on to Semantic Scholar's database afterwards, and recently (february 2023) improved things by switching to using OpenAlex as the main source of information.
+[inciteful.xyz](https://inciteful.xyz/) is a wonderful tool that uses a list of papers that you provide to produce a lot of recommendations in clear, concise tables. It's completely free and open source, and also uses completely free and open databases to source its information. 
+inciteful has been around for a while. Initally using Microsoft Academic graph, moving on to Semantic Scholar's database afterwards, and recently (february 2023) improved things by switching to using OpenAlex as the main source for papers.
 
-So, how does it work? You start by supplying it with one or multiple papers. You can do this either by entering a DOI, paper title, pubmed URL, or arXiv URL; or by importing a BibTeX file containg your sources. If you use Zotero (highly recommended!) you can also [install the inciteful zotero plugin](https://github.com/inciteful-xyz/inciteful-zotero-plugin) that lets you add papers directly from Zotero, which makes things even easier.
+So, how does it work? You start by supplying it with one or multiple papers, books, or any other item indexed by OpenAlex. You can do this either by entering a DOI, paper title, pubmed URL, or arXiv URL; or by importing a BibTeX file containg your sources. If you use Zotero (highly recommended!) you can also [install the inciteful zotero plugin](https://github.com/inciteful-xyz/inciteful-zotero-plugin) that lets you add papers directly from Zotero, which makes things even easier.
 
 ![inciteful zotero](5.jpg)
 
@@ -42,4 +42,4 @@ Still not satisfied? It's even possible to edit the SQL queries that produce the
 
 ![inciteful sql](4.jpg)
 
-*Want to explore more tools like Inciteful? Check out [the main list](@/list/_index.md) of information tools on this site.*
+*Want to see which tools can help you do research? Check out [the main list](@/list/_index.md) of information tools on this site.*
