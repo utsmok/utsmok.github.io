@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>LibraeT - guides</title>
+	<subtitle>A database of tools for researchers</subtitle>
+	<link href="https://utsmok.github.io/tags/guides/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://utsmok.github.io/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-05-18T00:00:00+00:00</updated>
+	<id>https://utsmok.github.io/tags/guides/atom.xml</id>
+	<entry xml:lang="en">
+		<title>inciteful.xyz: easily find more sources based on your current bibliography</title>
+		<published>2023-05-18T00:00:00+00:00</published>
+		<updated>2023-05-18T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://utsmok.github.io/posts/inciteful/" type="text/html"/>
+		<id>https://utsmok.github.io/posts/inciteful/</id>
+		<content type="html">&lt;p&gt;Ah, what a wonderful time, you&#x27;re starting a new research project! You received  a couple of papers from your supervisor to get you started, and you&#x27;re certain there&#x27;s quite some more relevant articles out there that will get you on the right track. Your initial rush of energy fades away as you sigh deeply and fire up Scopus. After a lot of iterations you&#x27;ve finally constructed a search expression that gives you some  results, but it&#x27;s still not the stuff you want. Oh well. You grab the useful results from the pile of garbage, and quickly move on before you completely burn out.&lt;&#x2F;p&gt;
+&lt;p&gt;Sounds familiar? Well, luckily there are a lot of tools that will make this process faster, easier, more fun, &lt;em&gt;and&lt;&#x2F;em&gt; produce more relevant results to boot! Let&#x27;s dive into my favorite example: &lt;a href=&quot;https:&#x2F;&#x2F;inciteful.xyz&#x2F;&quot;&gt;inciteful.xyz&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;h1 id=&quot;inciteful-xyz&quot;&gt;inciteful.xyz&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;logo.png&quot; alt=&quot;inciteful logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;inciteful.xyz&#x2F;&quot;&gt;inciteful.xyz&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;Recommends articles based on a large citation graph using simple but powerful queries&lt;&#x2F;p&gt;
+&lt;p&gt;Free &amp;amp; open source&lt;&#x2F;p&gt;
+&lt;p&gt;Uses data from &lt;a href=&quot;https:&#x2F;&#x2F;openalex.org&#x2F;&quot;&gt;OpenAlex&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;inciteful.xyz&#x2F;&quot;&gt;inciteful.xyz&lt;&#x2F;a&gt; is a wonderful tool that uses a list of papers that you provide to produce a lot of recommendations in clear, concise tables. It&#x27;s completely free and open source, and also uses completely free and open databases to source all information. 
+inciteful has been around for a while. Initally using Microsoft Academic graph, moving on to Semantic Scholar&#x27;s database afterwards, and recently (february 2023) improved things by switching to using OpenAlex as the main source of information.&lt;&#x2F;p&gt;
+&lt;p&gt;So, how does it work? You start by supplying it with one or multiple papers. You can do this either by entering a DOI, paper title, pubmed URL, or arXiv URL; or by importing a BibTeX file containg your sources. If you use Zotero (highly recommended!) you can also &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;inciteful-xyz&#x2F;inciteful-zotero-plugin&quot;&gt;install the inciteful zotero plugin&lt;&#x2F;a&gt; that lets you add papers directly from Zotero, which makes things even easier.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;5.jpg&quot; alt=&quot;inciteful zotero&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Once you&#x27;ve entered your papers, the tool will look up all citations of the papers, both forwards (papers that cite the input papers) and backwards (papers that have been cited by the input papers). Then it will do a second round, grabbing the forwards and backwards citations of &lt;em&gt;all the papers it found in the first round&lt;&#x2F;em&gt;. You can imagine this will produce a gigantic list of papers. inciteful doesn&#x27;t just give this in a list: it produces a graph with the most important papers, including how they are related. In my experience: not -that- useful, and there are better tools to make graphs like that. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;2.jpg&quot; alt=&quot;inciteful search&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The main draw are the lists it generates, each sorted by a different algorithm or parameter. There&#x27;s a list with similar papers (they cite the same papers that you used as input), seminal works (older papers with tons of citations), review papers (papers with lots of references), recent gems (new papers with relatively large amounts of citations), and more. See an interesting paper? You can add it to your list by pressing on the purple plus next to it. You can do this as many times as you want. Done? You can run the process again, now with the added papers taken into acount. You can of course also click on each found paper to get more information and a direct link to the page where it&#x27;s published. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;3.jpg&quot; alt=&quot;inciteful details&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Still not satisfied? It&#x27;s even possible to edit the SQL queries that produce the results! Once you&#x27;re done you can export all the papers you added in the format you like, the easiest option is to use Zotero (as is almost always the case).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;4.jpg&quot; alt=&quot;inciteful sql&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Want to explore more tools like Inciteful? Check out &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;list&#x2F;&quot;&gt;the main list&lt;&#x2F;a&gt; of information tools on this site.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

@@ -116,104 +116,30 @@
 <section class="section">
   <div class="container">
     <div class="has-text-centered">
-      <h1 class="title is-2">LibraeT</h1>
-      <p class="subtitle is-4">A database of tools for researchers</p>
-      
-      <figure class="image is-flex is-justify-content-center is-align-items-center">
-        <img class="is-rounded" src="&#x2F;images&#x2F;avatar.png" style="max-width: 192px" />
-      </figure>
-      
-      
-<p>
-  
-
-  
-
-  
-  <a class="has-text-linkedin" href="https://www.linkedin.com/in/samuel-mok-993ab35" target="_blank">
-    <span class="icon is-large" title="LinkedIn">
-      <i class="fab fa-linkedin fa-lg"></i>
-    </span>
-  </a>
-  
-
-  
-
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  <a class="has-text-github" href="https://github.com/utsmok" target="_blank">
-    <span class="icon is-large" title="GitHub">
-      <i class="fab fa-github fa-lg"></i>
-    </span>
-  </a>
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-
-  
-  <a class="has-text-black" href="mailto:s.mok@utwente.nl" target="_blank">
-    <span class="icon is-large" title="Email">
-      <i class="far fa-envelope fa-lg"></i>
-    </span>
-  </a>
-  
-
-  
-
-  
-
-  
-</p>
-
-    </div>
-    <div class="content">
-      <p>Welcome to LibraeT, the site that will help you find the <em>tools</em> that will help you find the answers you seek. Initally the main aim was to build an overview of scholarly databases and search engines, but this quickly expanded into multiple related areas. Examples include open source search tools based on citation networks, plugins for Zotero, packages for R, software for systematic reviews, and much more.</p>
-<p>There are two main parts to this site: you can browse the <a href="https://utsmok.github.io/list/">lists</a> with tools, links, descriptions, etc (in multiple formats, like a <a href="https://utsmok.github.io/list/gallery/">gallery</a> or a <a href="https://utsmok.github.io/list/table/">classic table</a>); or you can read the <a href="https://utsmok.github.io/posts/">blog</a> containing background information, guides, comparisons, and more. All articles are tagged and categorized, which can be used to quickly find what you need. </p>
-<h1 id="latest-post">Latest post</h1>
-<p>{% set blog_section = get_section(path=&quot;posts/_index.md&quot;) %}
-{% for year, posts in blog_section.pages | group_by(attribute=&quot;year&quot;) %}</p>
-<h2>{{ year }}</h2>
-<ul>
-    {% for post in posts %}
-    <li><a href="{{ post.permalink }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
-{% endfor %}
-<h1 id="about">About</h1>
-<p>Everything on this page was made by me: Samuel Mok. I'm an information specialist working for the library of the University of Twente. This site is a personal project that grew out of keeping a list of bookmarks of useful tools and guides I found. This list kept growing and growing, massively outgrowing the capabilities of the initial systems I used to keep track of it all. I decided to make a page to collect this, mainly for my own use, but why not share it with the rest of the world as well?</p>
-<p>The name <em>LibraeT</em> is a combination of the root libr- (for library), brea (scottish for hillside), and Raet (a big moraine in Scandanavia). Why? Mainly to because I liked the name librae but it's been used a lot already, so I added a T to make it unique!</p>
-<p>The source code for this page can be found on my <a href="https://github.com/utsmok/utsmok.github.io">Github</a>. You can contact me through e-mail or linkedIn by hitting the corresponding icon. </p>
-
+      <h1 class="title is-2">
+        <span class="icon">
+          <i class="fas fa-cubes"></i>
+        </span>
+        Categories
+      </h1>
+      <p class='subtitle is-4'>2 categories in total</p>
+      <p>
+        
+        <a href="https://utsmok.github.io/categories/search-tools/" class="mr-4">
+          <span class="icon">
+            <i class="fas fa-cube"></i>
+          </span>
+          <span>Search tools <sup>1</sup></span>
+        </a>
+        
+        <a href="https://utsmok.github.io/categories/tool-list/" class="mr-4">
+          <span class="icon">
+            <i class="fas fa-cube"></i>
+          </span>
+          <span>Tool list <sup>2</sup></span>
+        </a>
+        
+      </p>
     </div>
   </div>
 </section>
