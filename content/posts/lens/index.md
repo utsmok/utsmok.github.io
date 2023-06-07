@@ -1,9 +1,9 @@
 +++
-title="A free scholarly search engine that blows competitors out of the water: lens.org" 
-date=2023-06-17
+title="A free scholarly search engine that blows competitors out of the water: The Lens" 
+date=2023-06-09
 [taxonomies]
 categories=["Search tools"]
-tags=["structured search", "guides", "tools"]
+tags=["systematic search", "guides", "scholarly database", "patents"]
 +++
 
 When you're doing a structured literature search chances are you're using one of the main commercial scholarly search engines like [Scopus](www.scopus.com), ["Web of Science"](https://www.webofscience.com/), or if you don't care a lot about reproducability (or don't have access to other search tools), [Google Scholar](https://scholar.google.com/). And I musn't forget about [PubMed](https://pubmed.ncbi.nlm.nih.gov/) either, for those doing anything related to healthcare. 
