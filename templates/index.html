@@ -19,7 +19,7 @@
 
       {% set section2 = get_section(path="posts/_index.md")  %}
       {% set pages2 = section2.pages %}
-      {% set latestpage = pages2 | sort(attribute="date") | first %}
+      {% set latestpage = pages2 | sort(attribute="date") | last %}
 
       <article class="box">
         <h2 class="title">

@@ -1,16 +1,15 @@
 +++
-title="A free scholarly search engine that blows competitors out of the water: The Lens" 
+title="An awesome free scholarly & patent search engine: The Lens" 
 date=2023-06-09
 [taxonomies]
 categories=["Search tools"]
 tags=["systematic search", "guides", "scholarly database", "patents"]
 +++
 
-When you're doing a structured literature search chances are you're using one of the main commercial scholarly search engines like [Scopus](www.scopus.com), ["Web of Science"](https://www.webofscience.com/), or if you don't care a lot about reproducability (or don't have access to other search tools), [Google Scholar](https://scholar.google.com/). And I musn't forget about [PubMed](https://pubmed.ncbi.nlm.nih.gov/) either, for those doing anything related to healthcare. 
+When you're doing a structured literature search chances are you're using one of the main commercial scholarly search engines like [Scopus](www.scopus.com), ["Web of Science"](https://www.webofscience.com/), or [Google Scholar](https://scholar.google.com/). These tools are often expensive, and often not intuitive to use. Unfortunately, you didn't have much of a choice in the past.
 
-None of them are perfect: for instance, Scopus & WoS cost quite some money to access in order to keep the profit margins of Elsevier & Clarivate nice and big, which limits their accessibility for those without instutional subscriptions.  Besides, their interfaces are not exactly the most intuitive or attractive to use, especially when you're new to this world. 
+Recently free and open alternatives have been catching up with these juggernauts. Not just databases like [OpenAlex](https://openalex.org/) or [Crossref](https://www.crossref.org/), but also structured search engines like [Semantic Scholar](www.semanticscholar.com) or the topic of this post: [The Lens](www.lens.org).
 
-Luckily the last few years a lot of good free alternatives have been popping up. Not only open databases containing scholarly works, like [OpenAlex](https://openalex.org/) or [Crossref](https://www.crossref.org/) for instance, but also complete structured search engines, like the large language model based [Semantic Scholar](www.semanticscholar.com), or the one we're talking about in this post today: [The Lens](www.lens.org).
 
 <!-- more -->
 # The Lens
