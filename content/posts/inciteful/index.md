@@ -6,6 +6,10 @@ categories=["Search tools"]
 tags=["citations", "guides", "tools"]
 +++
 
+<<<<<<< HEAD
+=======
+Whoohoo, you're starting a new research project! You received a couple of papers from your supervisor to get you started, and you're certain there are quite some more relevant articles out there that will get you on the right track. You sit down and start working on a great boolean search query in Scopus, as you always do. After a lot of iterations you've constructed a search expression that gives you relevant results, but you have a feeling you're missing some crucial papers. Oh well. After a quick scan you grab the first 20 useful-looking papers from the long list of results, and quickly move on. You've already spent way too much time on this search, time to actually read the papers!
+>>>>>>> 15928eba5ec964994b7922e49b43a075483ade9c
 
 Most people are used to finding literature by doing keyword searches on platforms like [Scopus](www.scopus.com) or [Google Scholar](scholar.google.com). However, there are lots of other ways to find scholarly works. For example, you can use your current bibliography's citations and references to find more related works. Let's dive into my favorite example: [inciteful.xyz](https://inciteful.xyz/).
 
