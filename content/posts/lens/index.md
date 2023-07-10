@@ -26,3 +26,8 @@ Recently free and open alternatives have been catching up with these juggernauts
 > Free to use, run by a non-profit organisation
 > 
 > Uses data from [OpenAlex](https://openalex.org/), [Microsoft Academic](https://www.microsoft.com/en-us/research/project/academic/), [PubMed](https://pubmed.ncbi.nlm.nih.gov/), [Crossref](https://www.crossref.org/)
+
+
+*This post will be updated later to include more details*
+
+*Looking for an overview of search engines and scholarly databases? Check out [the main list](@/list/_index.md) of information tools on this site!*

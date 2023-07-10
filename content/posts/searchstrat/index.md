@@ -8,9 +8,13 @@ tags=["systematic search", "guides", "scholarly database", "patents"]
 
 +++
 
-!!! update metadata
-text below is from a mail sent to Thomas Hugen - 6 june 2023
-Grab some ideas from this mail to make a new post
+!!! update metadata !!!
+
+text below is from a mail sent by me on 6 june 2023
+
+!!Grab some ideas from this mail to make a new post!!
+
+Mail starts here:
 
 Some pointers for using boolean/keyword-search based tools & databases:
 

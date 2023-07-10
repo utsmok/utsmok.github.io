@@ -10,7 +10,6 @@ tags=["citations", "guides", "tools"]
 Most people are used to finding literature by doing keyword searches on platforms like [Scopus](www.scopus.com) or [Google Scholar](scholar.google.com). However, there are lots of other ways to find scholarly works. For example, you can use your current bibliography's citations and references to find more related works. Let's dive into my favorite example: [inciteful.xyz](https://inciteful.xyz/).
 
 <!-- more -->
-*Scroll down for the main post, after the overview.*
 # inciteful.xyz overview
 ![inciteful logo](logo.png)
 

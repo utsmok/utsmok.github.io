@@ -6,8 +6,11 @@ categories=["Reference Managers"]
 tags=["references", "guides", "bibtex"]
 +++
 
-The reference manager I would personally recommend to everyone is [Zotero](www.zotero.org). It's free, open source, and highly customizable. In this post I'll give a basic overview on how to install and use zotero, including some links to add-ons you can use. 
+The reference manager I would personally recommend to everyone is [Zotero](www.zotero.org). It's free, open source, and highly customizable. In this post I'll give a basic overview on how to install and use zotero, including a PDF with a step-by-step guide, and links to add-ons you can install. 
 <!-- more -->
+
+*This post will be updated later to include more details and links.*
+
 
 Storing and referencing the sources you use is something everyone will need to do at some point in their research. You can just download pdfs to your PC and write your citations manually of course, but there are a ton of options available that automate (parts) of this process. Lots of people will be familiar with [Mendeley](https://www.mendeley.com/) for instance, or maybe you prefer online services like [MyBib](https://www.mybib.com/) or [EasyBib](https://www.easybib.com/). You might even be writing entire BibTeX files by hand! 
 
@@ -29,6 +32,8 @@ Zotero will take make doing all tasks related to managing and citing your source
 [Slides that walk through setting up Zotero including useful plugins](zoteropresentation.pdf)
 
 [List of Zotero plugins](https://airtable.com/shrqtcH7g481zAA46) (a subview of the main information tool list that [can be found here](@/list/_index.md))
+
+
 
 
 *Looking for more tools to improve your research workflow? Check out [the main list](@/list/_index.md) of information tools on this site for a lot more.*
