@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://utsmok.github.io//sitemap.xml
