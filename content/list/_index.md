@@ -13,13 +13,18 @@ tags=["list", "table", "links", "tools", "gallery"]
 # Links to database views
 
 ## Table
-[Full Table](https://airtable.com/shrR9noEMoxsdHTzv)
+
 ![Full Table](fulltable.png)
+
+[Full Table](https://airtable.com/shrR9noEMoxsdHTzv)
+
 Use this link if you want to open the full table to browse, filter, search, or copy for your own use. The data has been grouped in categories by default, but you can use the buttons on top to change it to the way you'd like. 
 
 
 ## Gallery
+
 ![Gallery](gallery.png)
+
 [Gallery View](https://airtable.com/shrifnLw2VGslFH54)
 
 If you prefer to browse the database as a gallery of items instead of a table you can use this view. The data is the same as in the full table, any fields not directly visible on a card can be viewed by clicking an item.
@@ -29,6 +34,7 @@ If you prefer to browse the database as a gallery of items instead of a table yo
 There are some pre-configured dataviews available as well:
 
 [List of Zotero plugins](https://airtable.com/appRsRvhBmDNX8qD5/shrqtcH7g481zAA46)
+
 [List of databases with academic publications](https://airtable.com/appRsRvhBmDNX8qD5/shr6OJtLyEV0qQHjk)
 
 
