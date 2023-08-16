@@ -43,6 +43,16 @@
 
   
   
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-YF6WFQNLVG"></script>
+  <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "G-YF6WFQNLVG");
+  </script>
+  
   
 
   
@@ -57,9 +67,11 @@
 </head>
 
 <body class="has-background-white">
+  
   <nav aria-label="section navigation" class="navbar is-light" role="navigation">
     <div class="container">
       <div class="navbar-brand">
+     <object data="https://utsmok.github.io/icons/logo.svg" height="52" pointer-events: none;></object>
         <a class="navbar-item is-size-5 has-text-weight-bold" href="https:&#x2F;&#x2F;utsmok.github.io&#x2F;">LibraeT</a>
         <a aria-expanded="false" aria-label="menu" class="navbar-burger burger" data-target="navMenu" role="button">
           <span aria-hidden="true"></span>
@@ -117,10 +129,10 @@
   <div class="container">
     <div class="has-text-centered">
       <h1 class="title is-2">LibraeT</h1>
-      <p class="subtitle is-4">A database of tools for researchers</p>
+      <p class="subtitle is-4">Researching tools for researchers</p>
       
       <figure class="image is-flex is-justify-content-center is-align-items-center">
-        <img class="is-rounded" src="&#x2F;images&#x2F;avatar.png" style="max-width: 192px" />
+        <img class="is-rounded" src="&#x2F;images&#x2F;avatar.png" style="max-width: 150px" />
       </figure>
       
       
@@ -197,22 +209,128 @@
 
     </div>
     <div class="content">
-      <p>Welcome to LibraeT, the site that will help you find the <em>tools</em> that will help you find the answers you seek. Initally the main aim was to build an overview of scholarly databases and search engines, but this quickly expanded into multiple related areas. Examples include open source search tools based on citation networks, plugins for Zotero, packages for R, software for systematic reviews, and much more.</p>
-<p>There are two main parts to this site: you can browse the <a href="https://utsmok.github.io/list/">lists</a> with tools, links, descriptions, etc (in multiple formats, like a <a href="https://utsmok.github.io/list/gallery/">gallery</a> or a <a href="https://utsmok.github.io/list/table/">classic table</a>); or you can read the <a href="https://utsmok.github.io/posts/">blog</a> containing background information, guides, comparisons, and more. All articles are tagged and categorized, which can be used to quickly find what you need. </p>
-<h1 id="latest-post">Latest post</h1>
-<p>{% set blog_section = get_section(path=&quot;posts/_index.md&quot;) %}
-{% for year, posts in blog_section.pages | group_by(attribute=&quot;year&quot;) %}</p>
-<h2>{{ year }}</h2>
-<ul>
-    {% for post in posts %}
-    <li><a href="{{ post.permalink }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
-{% endfor %}
-<h1 id="about">About</h1>
-<p>Everything on this page was made by me: Samuel Mok. I'm an information specialist working for the library of the University of Twente. This site is a personal project that grew out of keeping a list of bookmarks of useful tools and guides I found. This list kept growing and growing, massively outgrowing the capabilities of the initial systems I used to keep track of it all. I decided to make a page to collect this, mainly for my own use, but why not share it with the rest of the world as well?</p>
-<p>The name <em>LibraeT</em> is a combination of the root libr- (for library), brea (scottish for hillside), and Raet (a big moraine in Scandanavia). Why? Mainly to because I liked the name librae but it's been used a lot already, so I added a T to make it unique!</p>
-<p>The source code for this page can be found on my <a href="https://github.com/utsmok/utsmok.github.io">Github</a>. You can contact me through e-mail or linkedIn by hitting the corresponding icon. </p>
+     
+      <h1 class="title is-2">Most recent post</h1>
+
+      
+      
+      
+
+      <article class="box">
+        <h2 class="title">
+          <a class="has-text-dark" href='https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;zotero&#x2F;'>
+            Improve your research workflow by using Zotero as your reference manager
+          </a>
+        </h2>
+        <p class="subtitle"></p>
+        <div class="columns is-multiline is-gapless">
+          <div class="column is-8">
+            
+<span class="icon-text has-text-grey">
+  <span class="icon">
+    <i class="fas fa-user"></i>
+  </span>
+  <span>Samuel Mok published on</span>
+  <span class="icon">
+    <i class="far fa-calendar-alt"></i>
+  </span>
+  <span><time datetime="2023-06-16">June 16, 2023</time></span>
+</span>
+
+          </div>
+          <div class="column is-4 has-text-right-desktop">
+            
+<span class="icon-text has-text-grey">
+  <span class="icon">
+    <i class="far fa-clock"></i>
+  </span>
+  <span>2 min,</span>
+  <span class="icon">
+    <i class="fas fa-pencil-alt"></i>
+  </span>
+  <span>289 words</span>
+</span>
+
+          </div>
+        </div>
+        <div class="content mt-2">
+          <p>The reference manager I would personally recommend to everyone is <a href="www.zotero.org">Zotero</a>. It's free, open source, and highly customizable. In this post I'll give a basic overview on how to install and use zotero, including a PDF with a step-by-step guide, and links to add-ons you can install. </p>
+
+          <a class="has-text-danger-dark has-text-weight-semibold" href='https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;zotero&#x2F;'>
+            Read More
+            <span class="icon is-small">
+              <i class="fas fa-arrow-right fa-xs"></i>
+            </span>
+          </a>
+        </div>
+        <div class="columns">
+          <div class="column">
+            
+            
+<p>
+  Categories:
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://utsmok.github.io/categories/reference-managers/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-cube"></i>
+      </span>
+      <span>Reference Managers</span>
+    </span>
+  </a>
+  
+</p>
+
+            
+          </div>
+          <div class="column has-text-right-desktop">
+            
+            
+<p>
+  Tags:
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://utsmok.github.io/tags/references/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>references</span>
+    </span>
+  </a>
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://utsmok.github.io/tags/guides/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>guides</span>
+    </span>
+  </a>
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://utsmok.github.io/tags/bibtex/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>bibtex</span>
+    </span>
+  </a>
+  
+</p>
+
+            
+          </div>
+        </div>
+    </article>
+
+    <h1 id="about">About</h1>
+<p>Welcome to LibraeT, where I will share the results of my research of the tools that will help researchers do their research. Initally designed to give an overview of scholarly databases and search engines, the contents of this site are rapidly expanding to subjects like open source search tools based on citation networks, plugins for Zotero, packages for R, software for systematic reviews, and much more.</p>
+<p>There are two main parts to this site: a <a href="https://utsmok.github.io/list/">list</a> with links and descriptions of tools, websites, external guides, and more; and a <a href="https://utsmok.github.io/posts/">blog</a> containing background information, recommendations, guides written by me, comparisons, etc. All articles and database entries are tagged and categorized on this site <em>and</em> in the list, so you can quickly and easily find what you need.</p>
+<h1 id="the-author">The author</h1>
+<p>LibraeT is a personal project by me, Samuel Mok. I'm an information specialist working for the <a href="utwente.nl/library">library of the University of Twente</a>. My personal list of useful tools kept growing and growing, and I needed a way to keep my notes and links in one page, and be able to share it with the people I support, which led to this site. And why not share it with the rest of the world? </p>
+<p>I'm a big fan of open source software and open access, and I'm happy to share my work &amp; collaborate with others. If you find anything useful here, feel free to share it, preferably with direct links or citations to me and this site. If you find any errors or have suggestions for improvement, please let me know. You can find the source code for the site and submit pull requests on <a href="https://github.com/utsmok/utsmok.github.io">Github</a>, or directly contact me through e-mail or LinkedIn by hitting the corresponding icons above. </p>
+
+
 
     </div>
   </div>

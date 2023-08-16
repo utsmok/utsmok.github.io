@@ -5,18 +5,65 @@
 	<link href="https://utsmok.github.io/tags/guides/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://utsmok.github.io/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2023-05-18T00:00:00+00:00</updated>
+	<updated>2023-06-16T00:00:00+00:00</updated>
 	<id>https://utsmok.github.io/tags/guides/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Improve your research workflow by using Zotero as your reference manager</title>
+		<published>2023-06-16T00:00:00+00:00</published>
+		<updated>2023-06-16T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://utsmok.github.io/posts/zotero/" type="text/html"/>
+		<id>https://utsmok.github.io/posts/zotero/</id>
+		<content type="html">&lt;p&gt;The reference manager I would personally recommend to everyone is &lt;a href=&quot;www.zotero.org&quot;&gt;Zotero&lt;&#x2F;a&gt;. It&#x27;s free, open source, and highly customizable. In this post I&#x27;ll give a basic overview on how to install and use zotero, including a PDF with a step-by-step guide, and links to add-ons you can install. &lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;&lt;em&gt;This post will be updated later to include more details and links.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Storing and referencing the sources you use is something everyone will need to do at some point in their research. You can just download pdfs to your PC and write your citations manually of course, but there are a ton of options available that automate (parts) of this process. Lots of people will be familiar with &lt;a href=&quot;https:&#x2F;&#x2F;www.mendeley.com&#x2F;&quot;&gt;Mendeley&lt;&#x2F;a&gt; for instance, or maybe you prefer online services like &lt;a href=&quot;https:&#x2F;&#x2F;www.mybib.com&#x2F;&quot;&gt;MyBib&lt;&#x2F;a&gt; or &lt;a href=&quot;https:&#x2F;&#x2F;www.easybib.com&#x2F;&quot;&gt;EasyBib&lt;&#x2F;a&gt;. You might even be writing entire BibTeX files by hand! &lt;&#x2F;p&gt;
+&lt;p&gt;Zotero will take make doing all tasks related to managing and citing your sources a lot easier; especially once you set it up to work the way you like. &lt;&#x2F;p&gt;
+&lt;h1 id=&quot;zotero&quot;&gt;Zotero&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;zotero&#x2F;logo.svg&quot; alt=&quot;zotero logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;zotero.org&#x2F;&quot;&gt;zotero.org&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;A free &amp;amp; open source reference manager for all platforms with integrations for all modern browsers &amp;amp; text editors&lt;&#x2F;p&gt;
+&lt;p&gt;Extremely customizable, lots of amazing plugins, can be completely tailored to your wishes&lt;&#x2F;p&gt;
+&lt;p&gt;Powerful options like automatically grabbing&#x2F;saving&#x2F;renaming PDFs, fetching uniform metadata, and more&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;useful-links&quot;&gt;Useful Links&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;zoteropresentation.pdf&quot;&gt;Slides that walk through setting up Zotero including useful plugins&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;airtable.com&#x2F;shrqtcH7g481zAA46&quot;&gt;List of Zotero plugins&lt;&#x2F;a&gt; (a subview of the main information tool list that &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;list&#x2F;&quot;&gt;can be found here&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Looking for more tools to improve your research workflow? Check out &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;list&#x2F;&quot;&gt;the main list&lt;&#x2F;a&gt; of information tools on this site for a lot more.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>An awesome free scholarly &amp; patent search engine: The Lens</title>
+		<published>2023-06-09T00:00:00+00:00</published>
+		<updated>2023-06-09T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://utsmok.github.io/posts/lens/" type="text/html"/>
+		<id>https://utsmok.github.io/posts/lens/</id>
+		<content type="html">&lt;p&gt;When you&#x27;re doing a structured literature search chances are you&#x27;re using one of the main commercial scholarly search engines like &lt;a href=&quot;www.scopus.com&quot;&gt;Scopus&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.webofscience.com&#x2F;&quot;&gt;&amp;quot;Web of Science&amp;quot;&lt;&#x2F;a&gt;, or &lt;a href=&quot;https:&#x2F;&#x2F;scholar.google.com&#x2F;&quot;&gt;Google Scholar&lt;&#x2F;a&gt;. These tools are often expensive, and often not intuitive to use. Unfortunately, you didn&#x27;t have much of a choice in the past.&lt;&#x2F;p&gt;
+&lt;p&gt;Recently free and open alternatives have been catching up with these juggernauts. Not just databases like &lt;a href=&quot;https:&#x2F;&#x2F;openalex.org&#x2F;&quot;&gt;OpenAlex&lt;&#x2F;a&gt; or &lt;a href=&quot;https:&#x2F;&#x2F;www.crossref.org&#x2F;&quot;&gt;Crossref&lt;&#x2F;a&gt;, but also structured search engines like &lt;a href=&quot;www.semanticscholar.com&quot;&gt;Semantic Scholar&lt;&#x2F;a&gt; or the topic of this post: &lt;a href=&quot;www.lens.org&quot;&gt;The Lens&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;h1 id=&quot;the-lens&quot;&gt;The Lens&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;lens&#x2F;logo.png&quot; alt=&quot;lens.org logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lens.org&#x2F;&quot;&gt;lens.org&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;A structured search engine for scholarly works built on top of open databases&lt;&#x2F;p&gt;
+&lt;p&gt;Modern interface with advanced search options, citation tracking, custom display of results and analysis, and more&lt;&#x2F;p&gt;
+&lt;p&gt;Also has one of the largest patent databases, which is highly interlinked with scholarly publications&lt;&#x2F;p&gt;
+&lt;p&gt;Free to use, run by a non-profit organisation&lt;&#x2F;p&gt;
+&lt;p&gt;Uses data from &lt;a href=&quot;https:&#x2F;&#x2F;openalex.org&#x2F;&quot;&gt;OpenAlex&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;project&#x2F;academic&#x2F;&quot;&gt;Microsoft Academic&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;pubmed.ncbi.nlm.nih.gov&#x2F;&quot;&gt;PubMed&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.crossref.org&#x2F;&quot;&gt;Crossref&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;em&gt;This post will be updated later to include more details&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Looking for an overview of search engines and scholarly databases? Check out &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;list&#x2F;&quot;&gt;the main list&lt;&#x2F;a&gt; of information tools on this site!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>inciteful.xyz: easily find more sources based on your current bibliography</title>
 		<published>2023-05-18T00:00:00+00:00</published>
 		<updated>2023-05-18T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://utsmok.github.io/posts/inciteful/" type="text/html"/>
 		<id>https://utsmok.github.io/posts/inciteful/</id>
-		<content type="html">&lt;p&gt;Ah, what a wonderful time, you&#x27;re starting a new research project! You received  a couple of papers from your supervisor to get you started, and you&#x27;re certain there&#x27;s quite some more relevant articles out there that will get you on the right track. Your initial rush of energy fades away as you sigh deeply and fire up Scopus. After a lot of iterations you&#x27;ve finally constructed a search expression that gives you some  results, but it&#x27;s still not the stuff you want. Oh well. You grab the useful results from the pile of garbage, and quickly move on before you completely burn out.&lt;&#x2F;p&gt;
-&lt;p&gt;Sounds familiar? Well, luckily there are a lot of tools that will make this process faster, easier, more fun, &lt;em&gt;and&lt;&#x2F;em&gt; produce more relevant results to boot! Let&#x27;s dive into my favorite example: &lt;a href=&quot;https:&#x2F;&#x2F;inciteful.xyz&#x2F;&quot;&gt;inciteful.xyz&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+		<content type="html">&lt;p&gt;Most people are used to finding literature by doing keyword searches on platforms like &lt;a href=&quot;www.scopus.com&quot;&gt;Scopus&lt;&#x2F;a&gt; or &lt;a href=&quot;scholar.google.com&quot;&gt;Google Scholar&lt;&#x2F;a&gt;. However, there are lots of other ways to find scholarly works. For example, you can use your current bibliography&#x27;s citations and references to find more related works. Let&#x27;s dive into my favorite example: &lt;a href=&quot;https:&#x2F;&#x2F;inciteful.xyz&#x2F;&quot;&gt;inciteful.xyz&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
-&lt;h1 id=&quot;inciteful-xyz&quot;&gt;inciteful.xyz&lt;&#x2F;h1&gt;
+&lt;h1 id=&quot;inciteful-xyz-overview&quot;&gt;inciteful.xyz overview&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;logo.png&quot; alt=&quot;inciteful logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;inciteful.xyz&#x2F;&quot;&gt;inciteful.xyz&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
@@ -24,17 +71,33 @@
 &lt;p&gt;Free &amp;amp; open source&lt;&#x2F;p&gt;
 &lt;p&gt;Uses data from &lt;a href=&quot;https:&#x2F;&#x2F;openalex.org&#x2F;&quot;&gt;OpenAlex&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;inciteful.xyz&#x2F;&quot;&gt;inciteful.xyz&lt;&#x2F;a&gt; is a wonderful tool that uses a list of papers that you provide to produce a lot of recommendations in clear, concise tables. It&#x27;s completely free and open source, and also uses completely free and open databases to source all information. 
-inciteful has been around for a while. Initally using Microsoft Academic graph, moving on to Semantic Scholar&#x27;s database afterwards, and recently (february 2023) improved things by switching to using OpenAlex as the main source of information.&lt;&#x2F;p&gt;
-&lt;p&gt;So, how does it work? You start by supplying it with one or multiple papers. You can do this either by entering a DOI, paper title, pubmed URL, or arXiv URL; or by importing a BibTeX file containg your sources. If you use Zotero (highly recommended!) you can also &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;inciteful-xyz&#x2F;inciteful-zotero-plugin&quot;&gt;install the inciteful zotero plugin&lt;&#x2F;a&gt; that lets you add papers directly from Zotero, which makes things even easier.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;5.jpg&quot; alt=&quot;inciteful zotero&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;screenshots&quot;&gt;Screenshots&lt;&#x2F;h1&gt;
+&lt;div&gt;
+    
+          
+          &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;2.jpg&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;utsmok.github.io&amp;#x2F;processed_images&amp;#x2F;f4601bf49c6a71ee00.jpg&quot; &#x2F;&gt;
+          &lt;&#x2F;a&gt;
+          
+          &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;3.jpg&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;utsmok.github.io&amp;#x2F;processed_images&amp;#x2F;b3be698f2555365c00.jpg&quot; &#x2F;&gt;
+          &lt;&#x2F;a&gt;
+          
+          &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;4.jpg&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;utsmok.github.io&amp;#x2F;processed_images&amp;#x2F;bd5683cc7162b7d700.jpg&quot; &#x2F;&gt;
+          &lt;&#x2F;a&gt;
+          
+          &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;5.jpg&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;utsmok.github.io&amp;#x2F;processed_images&amp;#x2F;2fb546a88582dc1d00.jpg&quot; &#x2F;&gt;
+          &lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;inciteful.xyz&#x2F;&quot;&gt;inciteful.xyz&lt;&#x2F;a&gt; is a wonderful tool that uses a list of papers that you provide to produce a lot of recommendations in clear, concise tables. It&#x27;s completely free and open source, and also uses completely free and open databases to source its information. 
+inciteful has been around for a while. Initally using Microsoft Academic graph, moving on to Semantic Scholar&#x27;s database afterwards, and recently (february 2023) improved things by switching to using OpenAlex as the main source for papers.&lt;&#x2F;p&gt;
+&lt;p&gt;So, how does it work? You start by supplying it with one or multiple papers, books, or any other item indexed by OpenAlex. You can do this either by entering a DOI, paper title, pubmed URL, or arXiv URL; or by importing a BibTeX file containg your sources. If you use Zotero (highly recommended!) you can also &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;inciteful-xyz&#x2F;inciteful-zotero-plugin&quot;&gt;install the inciteful zotero plugin&lt;&#x2F;a&gt; that lets you add papers directly from Zotero, which makes things even easier.&lt;&#x2F;p&gt;
 &lt;p&gt;Once you&#x27;ve entered your papers, the tool will look up all citations of the papers, both forwards (papers that cite the input papers) and backwards (papers that have been cited by the input papers). Then it will do a second round, grabbing the forwards and backwards citations of &lt;em&gt;all the papers it found in the first round&lt;&#x2F;em&gt;. You can imagine this will produce a gigantic list of papers. inciteful doesn&#x27;t just give this in a list: it produces a graph with the most important papers, including how they are related. In my experience: not -that- useful, and there are better tools to make graphs like that. &lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;2.jpg&quot; alt=&quot;inciteful search&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;The main draw are the lists it generates, each sorted by a different algorithm or parameter. There&#x27;s a list with similar papers (they cite the same papers that you used as input), seminal works (older papers with tons of citations), review papers (papers with lots of references), recent gems (new papers with relatively large amounts of citations), and more. See an interesting paper? You can add it to your list by pressing on the purple plus next to it. You can do this as many times as you want. Done? You can run the process again, now with the added papers taken into acount. You can of course also click on each found paper to get more information and a direct link to the page where it&#x27;s published. &lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;3.jpg&quot; alt=&quot;inciteful details&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Still not satisfied? It&#x27;s even possible to edit the SQL queries that produce the results! Once you&#x27;re done you can export all the papers you added in the format you like, the easiest option is to use Zotero (as is almost always the case).&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;4.jpg&quot; alt=&quot;inciteful sql&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;Want to explore more tools like Inciteful? Check out &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;list&#x2F;&quot;&gt;the main list&lt;&#x2F;a&gt; of information tools on this site.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Want to see which tools can help you do research? Check out &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;list&#x2F;&quot;&gt;the main list&lt;&#x2F;a&gt; of information tools on this site.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 </feed>

@@ -7,6 +7,12 @@
         <loc>https://utsmok.github.io/categories/</loc>
     </url>
     <url>
+        <loc>https://utsmok.github.io/categories/reference-managers/</loc>
+    </url>
+    <url>
+        <loc>https://utsmok.github.io/categories/reference-managers/page/1/</loc>
+    </url>
+    <url>
         <loc>https://utsmok.github.io/categories/search-tools/</loc>
     </url>
     <url>
@@ -37,10 +43,24 @@
         <lastmod>2023-05-18</lastmod>
     </url>
     <url>
+        <loc>https://utsmok.github.io/posts/lens/</loc>
+        <lastmod>2023-06-09</lastmod>
+    </url>
+    <url>
         <loc>https://utsmok.github.io/posts/page/1/</loc>
     </url>
     <url>
+        <loc>https://utsmok.github.io/posts/zotero/</loc>
+        <lastmod>2023-06-16</lastmod>
+    </url>
+    <url>
         <loc>https://utsmok.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://utsmok.github.io/tags/bibtex/</loc>
+    </url>
+    <url>
+        <loc>https://utsmok.github.io/tags/bibtex/page/1/</loc>
     </url>
     <url>
         <loc>https://utsmok.github.io/tags/citations/</loc>
@@ -71,6 +91,30 @@
     </url>
     <url>
         <loc>https://utsmok.github.io/tags/list/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://utsmok.github.io/tags/patents/</loc>
+    </url>
+    <url>
+        <loc>https://utsmok.github.io/tags/patents/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://utsmok.github.io/tags/references/</loc>
+    </url>
+    <url>
+        <loc>https://utsmok.github.io/tags/references/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://utsmok.github.io/tags/scholarly-database/</loc>
+    </url>
+    <url>
+        <loc>https://utsmok.github.io/tags/scholarly-database/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://utsmok.github.io/tags/systematic-search/</loc>
+    </url>
+    <url>
+        <loc>https://utsmok.github.io/tags/systematic-search/page/1/</loc>
     </url>
     <url>
         <loc>https://utsmok.github.io/tags/table/</loc>

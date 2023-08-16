@@ -1,4 +1,44 @@
 {% extends "DeepThought/templates/base.html" %}
+
+{% block nav %}
+  <nav aria-label="section navigation" class="navbar is-light" role="navigation">
+    <div class="container">
+      <div class="navbar-brand">
+     <object data="{{ get_url(path='icons/logo.svg') }}" height="52" pointer-events: none;></object>
+        <a class="navbar-item is-size-5 has-text-weight-bold" href="{{config.base_url}}">{{ config.title }}</a>
+        <a aria-expanded="false" aria-label="menu" class="navbar-burger burger" data-target="navMenu" role="button">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+      <div class="navbar-menu" id="navMenu">
+        <div class="navbar-end has-text-centered">
+          {% for item in config.extra.navbar_items %}
+          {% if lang == item.code %}
+          {% for nav in item.nav_items %}
+          <a class="navbar-item has-text-weight-semibold" href="{{ nav.url | replace(from='$BASE_URL', to=config.base_url) }}">
+            {{ nav.name }}
+          </a>
+          {% endfor %}
+          {% endif %}
+          {% endfor %}
+          <a class="navbar-item" id="nav-search" title="Search" data-target="#search-modal">
+            <span class="icon">
+              <i class="fas fa-search"></i>
+            </span>
+          </a>
+          <a class="navbar-item" id="dark-mode" title="Switch to dark theme">
+            <span class="icon">
+              <i class="fas fa-adjust"></i>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+{% endblock %}
+
 {% block footer %}
 <footer class="footer py-4">
     <div class="content has-text-centered">
