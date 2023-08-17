@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>LibraeT - gallery</title>
 	<subtitle>A database of tools for researchers</subtitle>
-	<link href="https://utsmok.github.io/tags/gallery/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://utsmok.github.io/"/>
+	<link href="https://libraet.samuelmok.cc/tags/gallery/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://libraet.samuelmok.cc/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2023-05-18T00:00:00+00:00</updated>
-	<id>https://utsmok.github.io/tags/gallery/atom.xml</id>
+	<id>https://libraet.samuelmok.cc/tags/gallery/atom.xml</id>
 	<entry xml:lang="en">
 		<title>Gallery view</title>
 		<published>2023-05-18T00:00:00+00:00</published>
 		<updated>2023-05-18T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://utsmok.github.io/list/gallery/" type="text/html"/>
-		<id>https://utsmok.github.io/list/gallery/</id>
+		<link rel="alternate" href="https://libraet.samuelmok.cc/list/gallery/" type="text/html"/>
+		<id>https://libraet.samuelmok.cc/list/gallery/</id>
 		<content type="html">&lt;p&gt;The list in the format of a modern card-based layout, with some search, filter, and sort options. &lt;&#x2F;p&gt;
 &lt;iframe class=&quot;airtable-embed&quot; src=&quot;https:&#x2F;&#x2F;airtable.com&#x2F;embed&#x2F;shrifnLw2VGslFH54?backgroundColor=tealDusty&amp;viewControls=on&quot; frameborder=&quot;0&quot; onmousewheel=&quot;&quot; width=&quot;100%&quot; height=&quot;800&quot; style=&quot;background: transparent; border: 1px solid #ccc;&quot;&gt;&lt;&#x2F;iframe&gt;</content>
 	</entry>

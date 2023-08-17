@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>LibraeT - scholarly database</title>
 	<subtitle>A database of tools for researchers</subtitle>
-	<link href="https://utsmok.github.io/tags/scholarly-database/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://utsmok.github.io/"/>
+	<link href="https://libraet.samuelmok.cc/tags/scholarly-database/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://libraet.samuelmok.cc/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2023-06-09T00:00:00+00:00</updated>
-	<id>https://utsmok.github.io/tags/scholarly-database/atom.xml</id>
+	<id>https://libraet.samuelmok.cc/tags/scholarly-database/atom.xml</id>
 	<entry xml:lang="en">
 		<title>An awesome free scholarly &amp; patent search engine: The Lens</title>
 		<published>2023-06-09T00:00:00+00:00</published>
 		<updated>2023-06-09T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://utsmok.github.io/posts/lens/" type="text/html"/>
-		<id>https://utsmok.github.io/posts/lens/</id>
+		<link rel="alternate" href="https://libraet.samuelmok.cc/posts/lens/" type="text/html"/>
+		<id>https://libraet.samuelmok.cc/posts/lens/</id>
 		<content type="html">&lt;p&gt;When you&#x27;re doing a structured literature search chances are you&#x27;re using one of the main commercial scholarly search engines like &lt;a href=&quot;www.scopus.com&quot;&gt;Scopus&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.webofscience.com&#x2F;&quot;&gt;&amp;quot;Web of Science&amp;quot;&lt;&#x2F;a&gt;, or &lt;a href=&quot;https:&#x2F;&#x2F;scholar.google.com&#x2F;&quot;&gt;Google Scholar&lt;&#x2F;a&gt;. These tools are often expensive, and often not intuitive to use. Unfortunately, you didn&#x27;t have much of a choice in the past.&lt;&#x2F;p&gt;
 &lt;p&gt;Recently free and open alternatives have been catching up with these juggernauts. Not just databases like &lt;a href=&quot;https:&#x2F;&#x2F;openalex.org&#x2F;&quot;&gt;OpenAlex&lt;&#x2F;a&gt; or &lt;a href=&quot;https:&#x2F;&#x2F;www.crossref.org&#x2F;&quot;&gt;Crossref&lt;&#x2F;a&gt;, but also structured search engines like &lt;a href=&quot;www.semanticscholar.com&quot;&gt;Semantic Scholar&lt;&#x2F;a&gt; or the topic of this post: &lt;a href=&quot;www.lens.org&quot;&gt;The Lens&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
 &lt;h1 id=&quot;the-lens&quot;&gt;The Lens&lt;&#x2F;h1&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;lens&#x2F;logo.png&quot; alt=&quot;lens.org logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;lens&#x2F;logo.png&quot; alt=&quot;lens.org logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lens.org&#x2F;&quot;&gt;lens.org&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
 &lt;p&gt;A structured search engine for scholarly works built on top of open databases&lt;&#x2F;p&gt;
@@ -27,7 +27,7 @@
 &lt;p&gt;Uses data from &lt;a href=&quot;https:&#x2F;&#x2F;openalex.org&#x2F;&quot;&gt;OpenAlex&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;project&#x2F;academic&#x2F;&quot;&gt;Microsoft Academic&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;pubmed.ncbi.nlm.nih.gov&#x2F;&quot;&gt;PubMed&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.crossref.org&#x2F;&quot;&gt;Crossref&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;p&gt;&lt;em&gt;This post will be updated later to include more details&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;Looking for an overview of search engines and scholarly databases? Check out &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;list&#x2F;&quot;&gt;the main list&lt;&#x2F;a&gt; of information tools on this site!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Looking for an overview of search engines and scholarly databases? Check out &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;list&#x2F;&quot;&gt;the main list&lt;&#x2F;a&gt; of information tools on this site!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 </feed>

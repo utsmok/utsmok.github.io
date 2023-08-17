@@ -2,24 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>LibraeT - bibtex</title>
 	<subtitle>A database of tools for researchers</subtitle>
-	<link href="https://utsmok.github.io/tags/bibtex/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://utsmok.github.io/"/>
+	<link href="https://libraet.samuelmok.cc/tags/bibtex/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://libraet.samuelmok.cc/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2023-06-16T00:00:00+00:00</updated>
-	<id>https://utsmok.github.io/tags/bibtex/atom.xml</id>
+	<id>https://libraet.samuelmok.cc/tags/bibtex/atom.xml</id>
 	<entry xml:lang="en">
 		<title>Improve your research workflow by using Zotero as your reference manager</title>
 		<published>2023-06-16T00:00:00+00:00</published>
 		<updated>2023-06-16T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://utsmok.github.io/posts/zotero/" type="text/html"/>
-		<id>https://utsmok.github.io/posts/zotero/</id>
+		<link rel="alternate" href="https://libraet.samuelmok.cc/posts/zotero/" type="text/html"/>
+		<id>https://libraet.samuelmok.cc/posts/zotero/</id>
 		<content type="html">&lt;p&gt;The reference manager I would personally recommend to everyone is &lt;a href=&quot;www.zotero.org&quot;&gt;Zotero&lt;&#x2F;a&gt;. It&#x27;s free, open source, and highly customizable. In this post I&#x27;ll give a basic overview on how to install and use zotero, including a PDF with a step-by-step guide, and links to add-ons you can install. &lt;&#x2F;p&gt;
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
 &lt;p&gt;&lt;em&gt;This post will be updated later to include more details and links.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Storing and referencing the sources you use is something everyone will need to do at some point in their research. You can just download pdfs to your PC and write your citations manually of course, but there are a ton of options available that automate (parts) of this process. Lots of people will be familiar with &lt;a href=&quot;https:&#x2F;&#x2F;www.mendeley.com&#x2F;&quot;&gt;Mendeley&lt;&#x2F;a&gt; for instance, or maybe you prefer online services like &lt;a href=&quot;https:&#x2F;&#x2F;www.mybib.com&#x2F;&quot;&gt;MyBib&lt;&#x2F;a&gt; or &lt;a href=&quot;https:&#x2F;&#x2F;www.easybib.com&#x2F;&quot;&gt;EasyBib&lt;&#x2F;a&gt;. You might even be writing entire BibTeX files by hand! &lt;&#x2F;p&gt;
 &lt;p&gt;Zotero will take make doing all tasks related to managing and citing your sources a lot easier; especially once you set it up to work the way you like. &lt;&#x2F;p&gt;
 &lt;h1 id=&quot;zotero&quot;&gt;Zotero&lt;&#x2F;h1&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;zotero&#x2F;logo.svg&quot; alt=&quot;zotero logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;zotero&#x2F;logo.svg&quot; alt=&quot;zotero logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;zotero.org&#x2F;&quot;&gt;zotero.org&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
 &lt;p&gt;A free &amp;amp; open source reference manager for all platforms with integrations for all modern browsers &amp;amp; text editors&lt;&#x2F;p&gt;
@@ -28,8 +28,8 @@
 &lt;&#x2F;blockquote&gt;
 &lt;h2 id=&quot;useful-links&quot;&gt;Useful Links&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;zoteropresentation.pdf&quot;&gt;Slides that walk through setting up Zotero including useful plugins&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;airtable.com&#x2F;shrqtcH7g481zAA46&quot;&gt;List of Zotero plugins&lt;&#x2F;a&gt; (a subview of the main information tool list that &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;list&#x2F;&quot;&gt;can be found here&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;Looking for more tools to improve your research workflow? Check out &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;list&#x2F;&quot;&gt;the main list&lt;&#x2F;a&gt; of information tools on this site for a lot more.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;airtable.com&#x2F;shrqtcH7g481zAA46&quot;&gt;List of Zotero plugins&lt;&#x2F;a&gt; (a subview of the main information tool list that &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;list&#x2F;&quot;&gt;can be found here&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Looking for more tools to improve your research workflow? Check out &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;list&#x2F;&quot;&gt;the main list&lt;&#x2F;a&gt; of information tools on this site for a lot more.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 </feed>

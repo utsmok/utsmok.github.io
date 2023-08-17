@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://utsmok.github.io//sitemap.xml
+Sitemap: https://libraet.samuelmok.cc//sitemap.xml

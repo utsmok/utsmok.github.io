@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>LibraeT - Search tools</title>
 	<subtitle>A database of tools for researchers</subtitle>
-	<link href="https://utsmok.github.io/categories/search-tools/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://utsmok.github.io/"/>
+	<link href="https://libraet.samuelmok.cc/categories/search-tools/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://libraet.samuelmok.cc/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2023-06-09T00:00:00+00:00</updated>
-	<id>https://utsmok.github.io/categories/search-tools/atom.xml</id>
+	<id>https://libraet.samuelmok.cc/categories/search-tools/atom.xml</id>
 	<entry xml:lang="en">
 		<title>An awesome free scholarly &amp; patent search engine: The Lens</title>
 		<published>2023-06-09T00:00:00+00:00</published>
 		<updated>2023-06-09T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://utsmok.github.io/posts/lens/" type="text/html"/>
-		<id>https://utsmok.github.io/posts/lens/</id>
+		<link rel="alternate" href="https://libraet.samuelmok.cc/posts/lens/" type="text/html"/>
+		<id>https://libraet.samuelmok.cc/posts/lens/</id>
 		<content type="html">&lt;p&gt;When you&#x27;re doing a structured literature search chances are you&#x27;re using one of the main commercial scholarly search engines like &lt;a href=&quot;www.scopus.com&quot;&gt;Scopus&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.webofscience.com&#x2F;&quot;&gt;&amp;quot;Web of Science&amp;quot;&lt;&#x2F;a&gt;, or &lt;a href=&quot;https:&#x2F;&#x2F;scholar.google.com&#x2F;&quot;&gt;Google Scholar&lt;&#x2F;a&gt;. These tools are often expensive, and often not intuitive to use. Unfortunately, you didn&#x27;t have much of a choice in the past.&lt;&#x2F;p&gt;
 &lt;p&gt;Recently free and open alternatives have been catching up with these juggernauts. Not just databases like &lt;a href=&quot;https:&#x2F;&#x2F;openalex.org&#x2F;&quot;&gt;OpenAlex&lt;&#x2F;a&gt; or &lt;a href=&quot;https:&#x2F;&#x2F;www.crossref.org&#x2F;&quot;&gt;Crossref&lt;&#x2F;a&gt;, but also structured search engines like &lt;a href=&quot;www.semanticscholar.com&quot;&gt;Semantic Scholar&lt;&#x2F;a&gt; or the topic of this post: &lt;a href=&quot;www.lens.org&quot;&gt;The Lens&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
 &lt;h1 id=&quot;the-lens&quot;&gt;The Lens&lt;&#x2F;h1&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;lens&#x2F;logo.png&quot; alt=&quot;lens.org logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;lens&#x2F;logo.png&quot; alt=&quot;lens.org logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lens.org&#x2F;&quot;&gt;lens.org&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
 &lt;p&gt;A structured search engine for scholarly works built on top of open databases&lt;&#x2F;p&gt;
@@ -27,19 +27,19 @@
 &lt;p&gt;Uses data from &lt;a href=&quot;https:&#x2F;&#x2F;openalex.org&#x2F;&quot;&gt;OpenAlex&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;project&#x2F;academic&#x2F;&quot;&gt;Microsoft Academic&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;pubmed.ncbi.nlm.nih.gov&#x2F;&quot;&gt;PubMed&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.crossref.org&#x2F;&quot;&gt;Crossref&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;p&gt;&lt;em&gt;This post will be updated later to include more details&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;Looking for an overview of search engines and scholarly databases? Check out &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;list&#x2F;&quot;&gt;the main list&lt;&#x2F;a&gt; of information tools on this site!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Looking for an overview of search engines and scholarly databases? Check out &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;list&#x2F;&quot;&gt;the main list&lt;&#x2F;a&gt; of information tools on this site!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
 		<title>inciteful.xyz: easily find more sources based on your current bibliography</title>
 		<published>2023-05-18T00:00:00+00:00</published>
 		<updated>2023-05-18T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://utsmok.github.io/posts/inciteful/" type="text/html"/>
-		<id>https://utsmok.github.io/posts/inciteful/</id>
+		<link rel="alternate" href="https://libraet.samuelmok.cc/posts/inciteful/" type="text/html"/>
+		<id>https://libraet.samuelmok.cc/posts/inciteful/</id>
 		<content type="html">&lt;p&gt;Most people are used to finding literature by doing keyword searches on platforms like &lt;a href=&quot;www.scopus.com&quot;&gt;Scopus&lt;&#x2F;a&gt; or &lt;a href=&quot;scholar.google.com&quot;&gt;Google Scholar&lt;&#x2F;a&gt;. However, there are lots of other ways to find scholarly works. For example, you can use your current bibliography&#x27;s citations and references to find more related works. Let&#x27;s dive into my favorite example: &lt;a href=&quot;https:&#x2F;&#x2F;inciteful.xyz&#x2F;&quot;&gt;inciteful.xyz&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
 &lt;h1 id=&quot;inciteful-xyz-overview&quot;&gt;inciteful.xyz overview&lt;&#x2F;h1&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;logo.png&quot; alt=&quot;inciteful logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;inciteful&#x2F;logo.png&quot; alt=&quot;inciteful logo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;inciteful.xyz&#x2F;&quot;&gt;inciteful.xyz&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
 &lt;p&gt;Recommends articles based on a large citation graph using simple but powerful queries&lt;&#x2F;p&gt;
@@ -50,20 +50,20 @@
 &lt;div&gt;
     
           
-          &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;2.jpg&quot; target=&quot;_blank&quot;&gt;
-            &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;utsmok.github.io&amp;#x2F;processed_images&amp;#x2F;f4601bf49c6a71ee00.jpg&quot; &#x2F;&gt;
+          &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;inciteful&#x2F;2.jpg&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;libraet.samuelmok.cc&amp;#x2F;processed_images&amp;#x2F;f4601bf49c6a71ee00.jpg&quot; &#x2F;&gt;
           &lt;&#x2F;a&gt;
           
-          &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;3.jpg&quot; target=&quot;_blank&quot;&gt;
-            &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;utsmok.github.io&amp;#x2F;processed_images&amp;#x2F;b3be698f2555365c00.jpg&quot; &#x2F;&gt;
+          &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;inciteful&#x2F;3.jpg&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;libraet.samuelmok.cc&amp;#x2F;processed_images&amp;#x2F;b3be698f2555365c00.jpg&quot; &#x2F;&gt;
           &lt;&#x2F;a&gt;
           
-          &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;4.jpg&quot; target=&quot;_blank&quot;&gt;
-            &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;utsmok.github.io&amp;#x2F;processed_images&amp;#x2F;bd5683cc7162b7d700.jpg&quot; &#x2F;&gt;
+          &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;inciteful&#x2F;4.jpg&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;libraet.samuelmok.cc&amp;#x2F;processed_images&amp;#x2F;bd5683cc7162b7d700.jpg&quot; &#x2F;&gt;
           &lt;&#x2F;a&gt;
           
-          &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;posts&#x2F;inciteful&#x2F;5.jpg&quot; target=&quot;_blank&quot;&gt;
-            &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;utsmok.github.io&amp;#x2F;processed_images&amp;#x2F;2fb546a88582dc1d00.jpg&quot; &#x2F;&gt;
+          &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;inciteful&#x2F;5.jpg&quot; target=&quot;_blank&quot;&gt;
+            &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;libraet.samuelmok.cc&amp;#x2F;processed_images&amp;#x2F;2fb546a88582dc1d00.jpg&quot; &#x2F;&gt;
           &lt;&#x2F;a&gt;
     &lt;&#x2F;div&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;inciteful.xyz&#x2F;&quot;&gt;inciteful.xyz&lt;&#x2F;a&gt; is a wonderful tool that uses a list of papers that you provide to produce a lot of recommendations in clear, concise tables. It&#x27;s completely free and open source, and also uses completely free and open databases to source its information. 
@@ -72,7 +72,7 @@ inciteful has been around for a while. Initally using Microsoft Academic graph, 
 &lt;p&gt;Once you&#x27;ve entered your papers, the tool will look up all citations of the papers, both forwards (papers that cite the input papers) and backwards (papers that have been cited by the input papers). Then it will do a second round, grabbing the forwards and backwards citations of &lt;em&gt;all the papers it found in the first round&lt;&#x2F;em&gt;. You can imagine this will produce a gigantic list of papers. inciteful doesn&#x27;t just give this in a list: it produces a graph with the most important papers, including how they are related. In my experience: not -that- useful, and there are better tools to make graphs like that. &lt;&#x2F;p&gt;
 &lt;p&gt;The main draw are the lists it generates, each sorted by a different algorithm or parameter. There&#x27;s a list with similar papers (they cite the same papers that you used as input), seminal works (older papers with tons of citations), review papers (papers with lots of references), recent gems (new papers with relatively large amounts of citations), and more. See an interesting paper? You can add it to your list by pressing on the purple plus next to it. You can do this as many times as you want. Done? You can run the process again, now with the added papers taken into acount. You can of course also click on each found paper to get more information and a direct link to the page where it&#x27;s published. &lt;&#x2F;p&gt;
 &lt;p&gt;Still not satisfied? It&#x27;s even possible to edit the SQL queries that produce the results! Once you&#x27;re done you can export all the papers you added in the format you like, the easiest option is to use Zotero (as is almost always the case).&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;Want to see which tools can help you do research? Check out &lt;a href=&quot;https:&#x2F;&#x2F;utsmok.github.io&#x2F;list&#x2F;&quot;&gt;the main list&lt;&#x2F;a&gt; of information tools on this site.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Want to see which tools can help you do research? Check out &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;list&#x2F;&quot;&gt;the main list&lt;&#x2F;a&gt; of information tools on this site.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 </feed>
