@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>LibraeT - scholarly database</title>
+    <subtitle>A database of tools for researchers</subtitle>
+    <link href="https://libraet.samuelmok.cc/tags/scholarly-database/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://libraet.samuelmok.cc/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-06-09T00:00:00+00:00</updated>
+    <id>https://libraet.samuelmok.cc/tags/scholarly-database/atom.xml</id>
+    <entry xml:lang="en">
+        <title>An awesome free scholarly &amp; patent search engine: The Lens</title>
+        <published>2023-06-09T00:00:00+00:00</published>
+        <updated>2023-06-09T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://libraet.samuelmok.cc/posts/lens/" type="text/html"/>
+        <id>https://libraet.samuelmok.cc/posts/lens/</id>
+        
+        <summary type="html">&lt;p&gt;When you&#x27;re doing a structured literature search chances are you&#x27;re using one of the main commercial scholarly search engines like &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;lens&#x2F;www.scopus.com&quot;&gt;Scopus&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.webofscience.com&#x2F;&quot;&gt;&amp;quot;Web of Science&amp;quot;&lt;&#x2F;a&gt;, or &lt;a href=&quot;https:&#x2F;&#x2F;scholar.google.com&#x2F;&quot;&gt;Google Scholar&lt;&#x2F;a&gt;. These tools are often expensive, and often not intuitive to use. Unfortunately, you didn&#x27;t have much of a choice in the past.&lt;&#x2F;p&gt;
+&lt;p&gt;Recently free and open alternatives have been catching up with these juggernauts. Not just databases like &lt;a href=&quot;https:&#x2F;&#x2F;openalex.org&#x2F;&quot;&gt;OpenAlex&lt;&#x2F;a&gt; or &lt;a href=&quot;https:&#x2F;&#x2F;www.crossref.org&#x2F;&quot;&gt;Crossref&lt;&#x2F;a&gt;, but also structured search engines like &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;lens&#x2F;www.semanticscholar.com&quot;&gt;Semantic Scholar&lt;&#x2F;a&gt; or the topic of this post: &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;lens&#x2F;www.lens.org&quot;&gt;The Lens&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

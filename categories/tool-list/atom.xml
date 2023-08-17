@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>LibraeT - Tool list</title>
+    <subtitle>A database of tools for researchers</subtitle>
+    <link href="https://libraet.samuelmok.cc/categories/tool-list/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://libraet.samuelmok.cc/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-05-18T00:00:00+00:00</updated>
+    <id>https://libraet.samuelmok.cc/categories/tool-list/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Gallery view</title>
+        <published>2023-05-18T00:00:00+00:00</published>
+        <updated>2023-05-18T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://libraet.samuelmok.cc/list/gallery/" type="text/html"/>
+        <id>https://libraet.samuelmok.cc/list/gallery/</id>
+        
+        <content type="html">&lt;p&gt;The list in the format of a modern card-based layout, with some search, filter, and sort options. &lt;&#x2F;p&gt;
+&lt;iframe class=&quot;airtable-embed&quot; src=&quot;https:&#x2F;&#x2F;airtable.com&#x2F;embed&#x2F;shrifnLw2VGslFH54?backgroundColor=tealDusty&amp;viewControls=on&quot; frameborder=&quot;0&quot; onmousewheel=&quot;&quot; width=&quot;100%&quot; height=&quot;800&quot; style=&quot;background: transparent; border: 1px solid #ccc;&quot;&gt;&lt;&#x2F;iframe&gt;</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Table view</title>
+        <published>2023-05-18T00:00:00+00:00</published>
+        <updated>2023-05-18T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://libraet.samuelmok.cc/list/table/" type="text/html"/>
+        <id>https://libraet.samuelmok.cc/list/table/</id>
+        
+        <content type="html">&lt;p&gt;The list in the format of a classic table, with filter, sort,  search &amp;amp; grouping options. &lt;&#x2F;p&gt;
+&lt;iframe class=&quot;airtable-embed&quot; src=&quot;https:&#x2F;&#x2F;airtable.com&#x2F;embed&#x2F;shrR9noEMoxsdHTzv?backgroundColor=tealDusty&amp;viewControls=on&quot; frameborder=&quot;0&quot; onmousewheel=&quot;&quot; width=&quot;100%&quot; height=&quot;800&quot; style=&quot;background: transparent; border: 1px solid #ccc;&quot;&gt;&lt;&#x2F;iframe&gt;</content>
+        
+    </entry>
+</feed>

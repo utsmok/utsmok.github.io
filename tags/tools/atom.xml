@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>LibraeT - tools</title>
+    <subtitle>A database of tools for researchers</subtitle>
+    <link href="https://libraet.samuelmok.cc/tags/tools/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://libraet.samuelmok.cc/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-05-18T00:00:00+00:00</updated>
+    <id>https://libraet.samuelmok.cc/tags/tools/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Gallery view</title>
+        <published>2023-05-18T00:00:00+00:00</published>
+        <updated>2023-05-18T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://libraet.samuelmok.cc/list/gallery/" type="text/html"/>
+        <id>https://libraet.samuelmok.cc/list/gallery/</id>
+        
+        <content type="html">&lt;p&gt;The list in the format of a modern card-based layout, with some search, filter, and sort options. &lt;&#x2F;p&gt;
+&lt;iframe class=&quot;airtable-embed&quot; src=&quot;https:&#x2F;&#x2F;airtable.com&#x2F;embed&#x2F;shrifnLw2VGslFH54?backgroundColor=tealDusty&amp;viewControls=on&quot; frameborder=&quot;0&quot; onmousewheel=&quot;&quot; width=&quot;100%&quot; height=&quot;800&quot; style=&quot;background: transparent; border: 1px solid #ccc;&quot;&gt;&lt;&#x2F;iframe&gt;</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Table view</title>
+        <published>2023-05-18T00:00:00+00:00</published>
+        <updated>2023-05-18T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://libraet.samuelmok.cc/list/table/" type="text/html"/>
+        <id>https://libraet.samuelmok.cc/list/table/</id>
+        
+        <content type="html">&lt;p&gt;The list in the format of a classic table, with filter, sort,  search &amp;amp; grouping options. &lt;&#x2F;p&gt;
+&lt;iframe class=&quot;airtable-embed&quot; src=&quot;https:&#x2F;&#x2F;airtable.com&#x2F;embed&#x2F;shrR9noEMoxsdHTzv?backgroundColor=tealDusty&amp;viewControls=on&quot; frameborder=&quot;0&quot; onmousewheel=&quot;&quot; width=&quot;100%&quot; height=&quot;800&quot; style=&quot;background: transparent; border: 1px solid #ccc;&quot;&gt;&lt;&#x2F;iframe&gt;</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>inciteful.xyz: easily find more sources based on your current bibliography</title>
+        <published>2023-05-18T00:00:00+00:00</published>
+        <updated>2023-05-18T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://libraet.samuelmok.cc/posts/inciteful/" type="text/html"/>
+        <id>https://libraet.samuelmok.cc/posts/inciteful/</id>
+        
+        <summary type="html">&lt;p&gt;Most people are used to finding literature by doing keyword searches on platforms like &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;inciteful&#x2F;www.scopus.com&quot;&gt;Scopus&lt;&#x2F;a&gt; or &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;inciteful&#x2F;scholar.google.com&quot;&gt;Google Scholar&lt;&#x2F;a&gt;. However, there are lots of other ways to find scholarly works. For example, you can use your current bibliography&#x27;s citations and references to find more related works. Let&#x27;s dive into my favorite example: &lt;a href=&quot;https:&#x2F;&#x2F;inciteful.xyz&#x2F;&quot;&gt;inciteful.xyz&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

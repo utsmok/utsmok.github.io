@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>LibraeT - Reference Managers</title>
+    <subtitle>A database of tools for researchers</subtitle>
+    <link href="https://libraet.samuelmok.cc/categories/reference-managers/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://libraet.samuelmok.cc/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-06-16T00:00:00+00:00</updated>
+    <id>https://libraet.samuelmok.cc/categories/reference-managers/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Improve your research workflow by using Zotero as your reference manager</title>
+        <published>2023-06-16T00:00:00+00:00</published>
+        <updated>2023-06-16T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://libraet.samuelmok.cc/posts/zotero/" type="text/html"/>
+        <id>https://libraet.samuelmok.cc/posts/zotero/</id>
+        
+        <summary type="html">&lt;p&gt;The reference manager I would personally recommend to everyone is &lt;a href=&quot;https:&#x2F;&#x2F;libraet.samuelmok.cc&#x2F;posts&#x2F;zotero&#x2F;www.zotero.org&quot;&gt;Zotero&lt;&#x2F;a&gt;. It&#x27;s free, open source, and highly customizable. In this post I&#x27;ll give a basic overview on how to install and use zotero, including a PDF with a step-by-step guide, and links to add-ons you can install. &lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
